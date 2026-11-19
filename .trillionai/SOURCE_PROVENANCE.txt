@@ -1,0 +1,3 @@
+Upstream: https://github.com/firecrawl/firecrawl
+Revision: dc37f52f9670be4ef3077f97f31096b2d0657205
+Original tree: 9b2296cad2bc4a74b0fad0d423de1b73eea5205b
